@@ -13,7 +13,7 @@ Cafe24 Admin > 주문 > 배송 중 관리'에서 배송 상태를 확인하여 �
 ## Installation
   
 1. Chrome 확장프로그램 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 를 설치합니다.
-2. [Cafe24_AutoDeliveryCheck.user.js](Cafe24_AutoDeliveryCheck.user.js)를 설치합니다.
+2. [Cafe24_AutoDeliveryCheck.user.js](https://github.com/bsy0317/Cafe24-Delivery-Tracking/raw/main/Cafe24_AutoDeliveryCheck.user.js)를 설치합니다.
 3. 자동으로 설치되지 않는 경우 [Cafe24_AutoDeliveryCheck.user.js](Cafe24_AutoDeliveryCheck.user.js)의 내용을 확장프로그램에 붙여넣습니다.
 
 ## Tip
